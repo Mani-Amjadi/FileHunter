@@ -53,7 +53,7 @@ import pyautogui
 
 
 
-## Installation (Linux)
+## Installation in Linux
 ```bash
 git clone https://github.com/Mani-Amjadi/FileHunter.git
 cd FileHunter
@@ -63,10 +63,13 @@ python3 Run.py
 ```
 
 ## Features
-- [x] Can send key key to your telegram bot 
-- [x] can give you exe and python file
-- [x] you can Enter icon path for exe icon
-## Contact Me
+- [x] Can send key key to your telegram bot .
+- [x] can give you exe and python file .
+- [x] you can Enter icon path for exe icon .
+- [x] Can Send Key to your Email . 
+- [x] Can Put Your Text into A Text File For sacrifice .
+
+## Contact me
 `my instagram` : [instagram](https://www.instagram.com/mani_amjadi)
 
 `discord channel` : [discord](https://discord.com)
