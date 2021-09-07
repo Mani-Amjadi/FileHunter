@@ -1,0 +1,15 @@
+colorama
+sys
+os
+shutil
+subprocess
+requests
+cowsay
+random
+cryptography
+tqdm
+socket
+pyautogui
+email
+smtplib
+ssl

@@ -1,0 +1,11 @@
+First you have to go to Requirements Directory and install Modules using 
+"pip3 install -r requirements.txt" and
+you should run ChekLibraries.py using 
+"python ChekLibraries.py " or "python3 ChekLibraries.py"
+
+-
+
+and finally run the tool using
+"python Run.py" or "python3 Run.py" .
+
+Hope you enjoy :)
