@@ -4,37 +4,10 @@
 
 **You can easily use it by installing multiple libraries**
 
+## Screenshot
 
-## Preview
-<pre>
+![FileHunter](https://user-images.githubusercontent.com/68564699/132414863-d5d5cd96-5c73-4f33-adc8-36073189c8a8.png)
 
-._______.___ .___    ._______     .___.__  .____     .______  _____._._______.______  
-:_ ____/: __||   |   : .____/     :   |  \ |    |___ :      \ \__ _:|: .____/: __   \ 
-|   _/  | : ||   |   | : _/\      |   :   ||    |   ||       |  |  :|| : _/\ |  \____|
-|   |   |   ||   |/\ |   /  \     |   .   ||    :   ||   |   |  |   ||   /  \|   :  \ 
-|_. |   |   ||   /  \|_.: __/     |___|   ||        ||___|   |  |   ||_.: __/|   |___\
-  :/    |___||______/   :/            |___||. _____/     |___|  |___|   :/   |___|    
-  :                                         :/
-Tool : File Hunter
-Version : 1.0
-Coded By Mani Amjadi 
-My GitHub : https://github.com/Mani-Amjadi
-[!] Enter Your File Name : File Hunter
-[!] Enter Your Telegram Bot Token : 
-[!] Enter Your Telegram Chat Id : 
-[!]__________Choose Your Icon__________ 
-[1] Cisco.ico
-[2] Discord.ico
-[3] Photoshop.ico
-[4] Steam.ico
-[5] Premiere.ico
-[6] Csgo.ico
-[7] Vscode.ico
-[8] Tiknet.ico
-[!]____________________________________
-[!] Enter Icon Number Or Icon Path : 
-[+] Python File -> File Hunter <- Is Created .
-</pre>
 ## Modules
 ```Python used
 import colorama
