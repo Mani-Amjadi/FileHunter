@@ -36,7 +36,7 @@ python3 Run.py
 ```
 
 ## Features
-- [x] Can send key key to your telegram bot .
+- [x] Can send key to your telegram bot .
 - [x] can give you exe and python file .
 - [x] you can Enter icon path for exe icon .
 - [x] Can Send Key to your Email . 
