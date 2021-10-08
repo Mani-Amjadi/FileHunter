@@ -2,7 +2,7 @@
 
 **You Can Generate ransomware for windows that can encrypt files  and it takes your chatid and telegram token for sending Key .**
 
-**You can easily use it by installing multiple libraries**
+**You can easily use it by installing some libraries**
 
 ## Screenshot
 
